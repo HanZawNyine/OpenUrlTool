@@ -1,7 +1,7 @@
 import webbrowser
 
 print("your txt file of link to open WEB Broswer")
-===============================================
+print("===============================================")
 a = input("Enter Your File (*.txt) :")
 with open(a) as f:
     lines = f.readlines()
