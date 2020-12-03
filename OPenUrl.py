@@ -8,3 +8,4 @@ with open(a) as f:
     for b in lines:
         print(b) 
         webbrowser.open(b, new=2)
+print("Developed by h4n24wny!n3")
